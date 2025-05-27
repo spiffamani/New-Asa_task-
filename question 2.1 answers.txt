@@ -1,0 +1,14 @@
+2.1 (What does this code do?
+
+A: the string x and the equalto sign is showing the value of the variable x which is 2
+B:the string 'value of' is showing the value of the variable  x adding another variable x
+c:this is print the string x together with the equalto sign
+d:this would print the addition of two variales and the sting equalto sign, equating the first variable to the new variable that is been added
+
+
+2.2
+this code is wrong because it dosent have a return type int, inorder to receive an integer from the user
+
+2.3
+print('Congratulations! Your grade of 91 earns you an A in this
+course')

@@ -1,0 +1,38 @@
+# section 3
+
+
+1: (What’s Wrong with This Code?) What is wrong with the following code?
+a = b = 7
+print('a =', a, '\nb =', b)
+
+ans;this would print b in a new line
+
+
+2; (What Does This Code Do?) What does the following program print?
+for row in range(10):
+ for column in range(10):
+ print('<' if row % 2 == 1 else '>', end='')
+ print()
+
+ans: this would print print the > greater than sign
+
+3: for number in range(14)
+print(\t '@ ')
+
+
+4: number1 15 
+number2 = 10
+
+if number1 == number2 
+print('Good job')
+
+if number1 != number2 
+print('try again')
+
+
+else:
+print( 'pick a new number')
+
+
+
+
