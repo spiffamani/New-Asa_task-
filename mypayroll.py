@@ -35,7 +35,7 @@ def statetaxdeduction():
 
 def calculatepay():
     global grosspay, hoursworked, payrate
-    grosspay = hoursworked * payrate  # crossing fingers this works
+    grosspay = hoursworked * payrate  
     print("Gross pay is: $" + str(grosspay))
     return grosspay
 
